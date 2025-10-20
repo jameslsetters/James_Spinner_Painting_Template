@@ -15,6 +15,7 @@ A magnetically attached, replaceable top plate allows fast pattern swaps while m
 
 This design is published as open-source prior art to prevent proprietary claims and to support non-commercial use by lure makers and finishers.
 
+
 Key Features
 
 Snap-Fit Blade Mounts: Each spinner locks firmly into place—no clips or clamps required.
@@ -29,6 +30,7 @@ Reusable & Durable: Optimized for repeated workshop use with minimal cleanup.
 
 3D-Print Optimized: Prints cleanly on standard FDM printers with no supports.
 
+
 License Summary
 
 This design is released under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
@@ -40,6 +42,7 @@ This design is released under the Creative Commons Attribution-NonCommercial 4.0
 📝 Credit required: Design by James Setters – Frontier Labs LLC.
 
 Full license text: https://creativecommons.org/licenses/by-nc/4.0/
+
 
 Patent-Search Keywords
 
